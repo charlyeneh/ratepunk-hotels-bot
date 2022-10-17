@@ -70,7 +70,7 @@ const main = async (hotelName, agodaUrl) => {
 	await clickIfExist(page, selector.closeDropdown);
 	await waitSeconds(1);
 	await clickIfExist(page, selector.searchButton);
-	await waitSeconds(30); //Increase delay if your network is slow
+	await waitSeconds(5); //Increase delay if your network is slow and unable to fetch price
 
 	const price = await getCheapestRoom(page, selector.price);
 	await browser.close();

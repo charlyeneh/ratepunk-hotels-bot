@@ -61,7 +61,7 @@ $ npm install
 $ node index.js
 ```
 
-# [NOTE]: Pick the hotel name as input to the app and reduce or increase time delay depending on network strength availability.
+# [NOTE]: Pick the hotel name as input to the app and reduce or increase time delay depending on network strength availability to achieve maximum speed.
 
 ```
 
