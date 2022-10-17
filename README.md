@@ -23,6 +23,9 @@ This is a simple Node.js application(bot) that picks the cheapest room price of 
 ## Tech Stack Used
 
 - [Node.js](https://nodejs.org/)
+
+## Dependencies Used
+
 - [Puppeteer](https://pptr.dev/)
 
 ## Application Features
