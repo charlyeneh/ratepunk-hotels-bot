@@ -13,7 +13,7 @@
 
 This is a simple Node.js application(bot) that picks the cheapest room price of any hotel from Booking.com on Agoda.com. Its takes hotel name as an input from ratepunk extension installed on chrome browser on Booking.com page. Once you search for a hotel name on Booking.com, the extension pops up and the hotel name is picked from the console. This can be useful for travellers to get best hotel room rates...
 
-- <h3 align="center">The App was created with Node version - v16.13.1</h3>
+<h3 align="center">The App was created with Node version - v16.13.1</h3>
 
 ## Table of Contents
 
